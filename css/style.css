@@ -1,0 +1,31 @@
+	
+footer{
+	background-color: #e2e2e247;
+	color: #a0a0a0;
+	padding: 1em 0 1em 0;
+	font-family: "Merriweather Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+a:link{
+  text-decoration: none;
+  color: #555;
+}
+a:hover {
+  text-decoration: underline;
+}
+.lista{
+	font-size: 12px;
+	list-style-type: none;
+	padding: 0px;
+	text-decoration: none;
+}
+.lt-titulo{
+	font-weight: bold;
+	font-size: 12.8px;
+	color: #676262;
+}
+.contato{
+	background-image: url('../img/banner.jpg');
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
